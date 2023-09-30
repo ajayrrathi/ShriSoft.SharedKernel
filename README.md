@@ -1,2 +1,2 @@
 # ShriSoft.SharedKernel
-This project contain the base class that all the entities.It contain base classes for specification.
+This project contain the base class for all the entities. It will act as the base classes for Other Shrisoft nuket packages.
